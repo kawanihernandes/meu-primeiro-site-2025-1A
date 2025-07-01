@@ -5,3 +5,16 @@ font-family: monospace;
 margin-bottom: 100px
 }
     
+header{
+border-bottom: solid 2px yellow
+padding: 20px;
+font-size: 30px;
+color: pink;
+}
+
+section {
+    background-color: fuchsia;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+}
